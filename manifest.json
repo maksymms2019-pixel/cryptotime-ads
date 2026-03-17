@@ -1,0 +1,15 @@
+{
+  "name": "CryptoTime Реклама",
+  "short_name": "CT Ads",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#f5c518",
+  "icons": [
+    {
+      "src": "https://em-content.zobj.net/source/apple/391/chart-increasing_1f4c8.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
